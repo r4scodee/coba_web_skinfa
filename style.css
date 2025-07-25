@@ -1,0 +1,437 @@
+.hero-section,
+.hero-section * {
+  box-sizing: border-box;
+}
+.hero-section {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 772px;
+  position: relative;
+  overflow: hidden;
+}
+.kerja-pasti-kuliah-bisa-usaha-sukses {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 42px;
+  font-weight: 700;
+  position: absolute;
+  left: 60px;
+  top: 153px;
+  width: 563px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.ingin-anak-anda-terampil-di-bidang-teknologi-punya-karakter-islami-dan-siap-kerja-sejak-lulus-bergabunglah-bersama-smk-informatika-al-irsyad-al-islamiyyah-kota-cirebon-sekolah-berbasis-kurikulum-industri-dibimbing-guru-berpengalaman-dan-dilengkapi-program-keislaman-yang-membentuk-akhlak-mulia {
+  color: #000000;
+  text-align: left;
+  font-family: "WorkSans-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 60px;
+  top: 268px;
+  width: 563px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-37 {
+  background: linear-gradient(
+    90deg,
+    rgba(28, 98, 214, 1) 0%,
+    rgba(37, 117, 252, 1) 100%
+  );
+  border-radius: 30px;
+  padding: 21px 34px 21px 34px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 60px;
+  top: 458px;
+}
+.daftar-sekarang {
+  color: #ffffff;
+  text-align: left;
+  font-family: "WorkSans-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-38 {
+  border-radius: 30px;
+  border-style: solid;
+  border-color: #1e88e5;
+  border-width: 2px;
+  padding: 21px 34px 21px 34px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 286px;
+  top: 458px;
+}
+.lihat-profil-sekolah {
+  color: #1e88e5;
+  text-align: left;
+  font-family: "WorkSans-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.group-38 {
+  position: absolute;
+  inset: 0;
+}
+._1752846487778 {
+  width: 412px;
+  height: 589px;
+  position: absolute;
+  left: 593px;
+  top: 183px;
+  object-fit: cover;
+  aspect-ratio: 412/589;
+}
+._1752846232413 {
+  width: 287px;
+  height: 468px;
+  position: absolute;
+  left: 510px;
+  top: 304px;
+  object-fit: cover;
+  aspect-ratio: 287/468;
+}
+._1752846576479 {
+  width: 356px;
+  height: 457px;
+  position: absolute;
+  left: 781px;
+  top: 315px;
+  object-fit: cover;
+  aspect-ratio: 356/457;
+}
+.buble-alumni-bekerja {
+  position: absolute;
+  inset: 0;
+}
+.polygon-3 {
+  border-radius: 0px;
+  width: 196px;
+  height: 196px;
+  position: absolute;
+  left: 982px;
+  top: 167px;
+  overflow: visible;
+}
+._45 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "WorkSans-Bold", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 1046px;
+  top: 227px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.alumni-bekerja {
+  color: #ffffff;
+  text-align: center;
+  font-family: "WorkSans-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 1024px;
+  top: 266px;
+  width: 111px;
+}
+.polygon-32 {
+  border-radius: 0px;
+  width: 196px;
+  height: 196px;
+  position: absolute;
+  left: 1198px;
+  top: 167px;
+  overflow: visible;
+}
+._30 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "WorkSans-Bold", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 1262px;
+  top: 228px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.alumni-kuliah {
+  color: #ffffff;
+  text-align: center;
+  font-family: "WorkSans-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 1250px;
+  top: 267px;
+  width: 91px;
+}
+.polygon-33 {
+  border-radius: 0px;
+  width: 196px;
+  height: 196px;
+  position: absolute;
+  left: 1096px;
+  top: 334px;
+  overflow: visible;
+}
+._25 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "WorkSans-Bold", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 1161px;
+  top: 394px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.alumni-wirausaha {
+  color: #ffffff;
+  text-align: center;
+  font-family: "WorkSans-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 1138px;
+  top: 433px;
+  width: 111px;
+}
+.navbar {
+  width: 1440px;
+  height: 134px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.frame-17 {
+  padding: 6px 0px 6px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 1289px;
+  position: absolute;
+  left: 76px;
+  top: 37px;
+}
+.logo-full {
+  flex-shrink: 0;
+  width: 273px;
+  height: 57px;
+  position: relative;
+}
+.image-24 {
+  width: 100%;
+  height: 98.25%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 1.75%;
+  object-fit: cover;
+}
+.group-6 {
+  flex-shrink: 0;
+  width: 714px;
+  height: 32px;
+  position: static;
+}
+.frame-10 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 323px;
+  top: 19.5px;
+}
+.profil-sekolah {
+  color: #000000;
+  text-align: left;
+  font-family: "WorkSans-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-12 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 530px;
+  top: 18.5px;
+}
+.ppdb {
+  color: #000000;
+  text-align: left;
+  font-family: "WorkSans-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-11 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 446px;
+  top: 18.5px;
+}
+.jurusan {
+  color: #000000;
+  text-align: left;
+  font-family: "WorkSans-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-13 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 597px;
+  top: 18.5px;
+}
+.program-unggulan {
+  color: #000000;
+  text-align: left;
+  font-family: "WorkSans-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-14 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 762px;
+  top: 18.5px;
+}
+.kegiatan {
+  color: #000000;
+  text-align: left;
+  font-family: "WorkSans-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-15 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 852px;
+  top: 18.5px;
+}
+.testimonial {
+  color: #000000;
+  text-align: left;
+  font-family: "WorkSans-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-16 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 962px;
+  top: 18.5px;
+}
+.kontak {
+  color: #000000;
+  text-align: left;
+  font-family: "WorkSans-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-9 {
+  background: #1e88e5;
+  border-radius: 30px;
+  padding: 50px 10px 50px 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 200px;
+  height: 50px;
+  position: relative;
+}
